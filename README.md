@@ -15,4 +15,6 @@ Gizlilik politikamız zaman zaman güncellenebilir. Herhangi bir değişiklik ol
 
 Herhangi bir sorunuz varsa, lütfen bizimle iletişime geçin.
 
-Son Güncelleme: 25 Aralık 2024
+"Herhangi bir karmaşıklık durumunda KVKK metninin Türkçe versiyonu bazalınacaktır"
+
+Son Güncelleme: 28 Aralık 2024
